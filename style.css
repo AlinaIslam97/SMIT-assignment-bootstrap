@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #E5E5E5;
+}
+
+header {
+  display: block;
+}
+
+#header {
+  background-color: #fff9f4 !important;
+  padding: 50px 0px 70px 0px;
+  height: auto;
+}
+
+.custom-logo {
+  width: 15%;
+}
+
+header span {
+  font-weight: 600;
+}
+
+.custom-highlight {
+  color: #ff8367;
+}
+
+.custom-li {
+  font-weight: 700;
+  padding: 0 25px;
+}
+
+.custom-navbar {
+  background-color: #fff9f4;
+}
+
+.navbar-collapse {
+  width: 100%;
+  justify-content: end;
+}
+
+h1 {
+  font-family: "Bebas Neue";
+  font-size: 80px;
+  font-weight: 400;
+  color: #363958;
+}
+
+.custom-highlight1 {
+  color: #ff8367;
+  font-weight: 400;
+}
+
+.custom-btn {
+  background-color: #3D4FF3;
+  padding: 10px;
+  border: none;
+}
+
+.custom-card {
+  border-radius: 20px;
+  padding: 12px;
+  border: none;
+}
+
+.custom-bg {
+  height: 350px;
+  background: #F1F1F1;
+  border-radius: 12px;
+}
+
+h2 {
+  font-family: "Bebas Neue";
+  font-size: 48px;
+  color: #363958;
+}
+
+h4 {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  color: #363958;
+}
+
+.custom-footer {
+  background-color: transparent;
+  border: none;
+}
+
+.custom-serivce-card {
+  border-radius: 10px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+  border: none;
+}
+
+.custom-img-width {
+  width: 80px;
+}
+
+footer h5 {
+  padding: 10px 0;
+}
+
+h5 {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  color: #414468;
+}
+
+footer li a {
+  text-decoration: none;
+}
+
+h6 {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+#footer {
+  padding: 25px 0px
+}
